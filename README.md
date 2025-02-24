@@ -14,5 +14,6 @@
 | ----------------------------------- | ----------------------------------- |
 | ![t3](./screenshots/screenshot3.png) | ![t4](./screenshots/screenshot4.png) |
 
+Rainy Drive CG from [Twofold](https://store.steampowered.com/app/1749770/Twofold/)
 ## Installation
 This is apart of a larger theme that requires more configuration than what is currently possible with HyDE themes. (I am *probably* wrong about this, so if anyone knows of a better way of doing this, please let me know.) See [Élan Flower](https://github.com/Traynack/Elan-Flower) for more details.
