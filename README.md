@@ -5,8 +5,14 @@
 </div>
 <div align = center><img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/hyde_banner.png"><br><br></div>
 
+# Élan Flower Dark
+
 > [!IMPORTANT]
 > This is not a standalone theme, needs [HyDE](https://github.com/HyDE-Project/HyDE) installed...
 
-# Installation
+| ![t1](./screenshots/screenshot1.png) | ![t2](./screenshots/screenshot2.png) |
+| ----------------------------------- | ----------------------------------- |
+| ![t3](./screenshots/screenshot3.png) | ![t4](./screenshots/screenshot4.png) |
+
+## Installation
 This is apart of a larger theme that requires more configuration than what is currently possible with HyDE themes. (I am *probably* wrong about this, so if anyone knows of a better way of doing this, please let me know.) See [Élan Flower](https://github.com/Traynack/Elan-Flower) for more details.
